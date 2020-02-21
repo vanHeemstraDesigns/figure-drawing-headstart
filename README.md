@@ -12,6 +12,12 @@ Based on "Figure Drawing for Beginners" at https://www.domestika.org/en/courses/
 ### Your influences
 
 ## U2 Drawing Basics
+### The stroke and the body
+### Lines and division into halves and thirds
+### Circles
+### Dividing the lines
+### Drawing circles
+### Dividing circles
 
 ## U3 General proportions
 
