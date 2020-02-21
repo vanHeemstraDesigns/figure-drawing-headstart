@@ -4,7 +4,7 @@ figure-drawing-headstart
 Based on "Figure Drawing for Beginners" at https://www.domestika.org/en/courses/962-figure-drawing-for-beginners/course
 
 ## U1 Introduction
-
+See [README.md](./100/README.md)
 ### Presentation (Who I am)
 ### Influences
 ### What will we do in the course
@@ -12,6 +12,7 @@ Based on "Figure Drawing for Beginners" at https://www.domestika.org/en/courses/
 ### Your influences
 
 ## U2 Drawing Basics
+See [README.md](./200/README.md)
 ### The stroke and the body
 ### Lines and division into halves and thirds
 ### Circles
@@ -20,6 +21,7 @@ Based on "Figure Drawing for Beginners" at https://www.domestika.org/en/courses/
 ### Dividing circles
 
 ## U3 General Proportions
+See [README.md](./300/README.md)
 ### Division in 8 heads
 ### Head (Basic)
 ### Torso (rib cage)
@@ -32,6 +34,7 @@ Based on "Figure Drawing for Beginners" at https://www.domestika.org/en/courses/
 ### Draw the column
 
 ## U4 Extremities
+See [README.md](./400/README.md)
 ### Upper extremity
 ### Arm and forearm
 ### Hands
@@ -44,6 +47,7 @@ Based on "Figure Drawing for Beginners" at https://www.domestika.org/en/courses/
 ### Draw the proportions of the foot
 
 ## U5 Applications
+See [README.md](./500/README.md)
 ### Body shafts
 ### Body volume
 ### Projections and perspective
@@ -52,4 +56,5 @@ Based on "Figure Drawing for Beginners" at https://www.domestika.org/en/courses/
 ### Draw different views
 
 ## FP Final project
+See [README.md](./600/README.md)
 ### Anatomical drawing for beginners
