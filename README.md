@@ -44,5 +44,12 @@ Based on "Figure Drawing for Beginners" at https://www.domestika.org/en/courses/
 ### Draw the proportions of the foot
 
 ## U5 Applications
+### Body shafts
+### Body volume
+### Projections and perspective
+### Draw the body axes and play with them
+### Give body volume
+### Draw different views
 
 ## FP Final project
+### Anatomical drawing for beginners
