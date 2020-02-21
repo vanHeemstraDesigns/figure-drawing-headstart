@@ -1,4 +1,3 @@
-figure-drawing-headstart
 # Figure Drawing - Headstart
 
 ## U1 Introduction
