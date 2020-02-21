@@ -5,6 +5,12 @@ Based on "Figure Drawing for Beginners" at https://www.domestika.org/en/courses/
 
 ## U1 Introduction
 
+### Presentation (Who I am)
+### Influences
+### What will we do in the course
+### Present yourself
+### Your influences
+
 ## U2 Drawing Basics
 
 ## U3 General proportions
