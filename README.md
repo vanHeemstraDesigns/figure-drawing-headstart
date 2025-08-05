@@ -1,5 +1,5 @@
-figure-drawing-headstart
-# Figure Drawing - Headstart
+figure-drawing-management
+# Figure Drawing Management
 
 Based on "Figure Drawing for Beginners" at https://www.domestika.org/en/courses/962-figure-drawing-for-beginners/course
 
